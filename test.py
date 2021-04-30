@@ -1,0 +1,1 @@
+print(f'To jest plik testowy')
